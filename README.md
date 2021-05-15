@@ -18,10 +18,6 @@
 
 ---
 
-[![U.K's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubeydnur)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### How to reach me 😏
 
 <a href="https://www.linkedin.com/in/ubeydnur-karaburun-080692168/" target="_blank">
